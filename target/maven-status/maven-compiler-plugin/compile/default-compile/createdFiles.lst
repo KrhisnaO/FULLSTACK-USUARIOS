@@ -1,0 +1,6 @@
+com/fullstack3/fullstack3/repository/UsuarioRepository.class
+com/fullstack3/fullstack3/Fullstack3Application.class
+com/fullstack3/fullstack3/controller/UsuarioController.class
+com/fullstack3/fullstack3/service/UsuarioServiceImpl.class
+com/fullstack3/fullstack3/model/Usuario.class
+com/fullstack3/fullstack3/service/UsuarioService.class
